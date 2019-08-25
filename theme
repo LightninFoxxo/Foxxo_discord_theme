@@ -5,7 +5,7 @@
 
 :root {
 --BMT-name: "DISCORD";
---BMT-text: "❤️🦊 ❤️";
+--BMT-text: "❤️🦊❤️";
 --BMT-version: "v1";
 --BMT-author: "ME";
 --BMT-version-full: var(--BMT-name)" "var(--BMT-version) " by";
